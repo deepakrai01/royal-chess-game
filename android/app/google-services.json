@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184172647792",
+    "project_id": "royalhess-1",
+    "storage_bucket": "royalhess-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184172647792:android:393162d3c388d8c8982bb5",
+        "android_client_info": {
+          "package_name": "com.royalchess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184172647792-jg01n91lb0fbg40vndihrcdjgmtn7dvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.royalchess",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "184172647792-p3u4lk8qdkp9qkbrvt2cn5nrqbbk028n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.royalchess",
+            "certificate_hash": "dfa600561f78aa8cbae7c8e605afd55f7164d01e"
+          }
+        },
+        {
+          "client_id": "184172647792-5jd5kopstjjfg2ete9qr3vp8uvden3m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFe61JBaxequwhMfk4MHTaUOGjtm91aGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184172647792-5jd5kopstjjfg2ete9qr3vp8uvden3m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Royal Chess</string>
+    <string name="facebook_app_id">1218510746003303</string>
+    <string name="fb_login_protocol_scheme">fb1218510746003303</string>
+    <string name="facebook_client_token">75653a3a24e49ffe2c237da3b81e3de6</string>
+</resources>
